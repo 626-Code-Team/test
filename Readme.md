@@ -1,2 +1,2 @@
 # test
-edit on dev1
+此仓库用于练习git的使用，避免破坏大作业仓库
